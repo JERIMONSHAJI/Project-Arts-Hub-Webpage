@@ -32,7 +32,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['toggle_like']) && isse
 
     try {
         if ($existing_like) {
-             // Unlike: Remove the like
+            // Unlike: Remove the like
             $stmt = $pdo->prepare("DELETE FROM likes WHERE post_id = ? AND user_id = ?");
             $stmt->execute([$post_id, $current_user_id]);
         } else {
@@ -939,5 +939,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['view_likes']) && isset
         });
     </script>
 </body>
-
 </html>
