@@ -1,0 +1,507 @@
+[2025-05-04 05:51:57] Received POST request
+[2025-05-04 05:51:57] Processing art post upload
+[2025-05-04 05:51:57] File: 5536142.jpg, Status: trade, Price: 0, Min Trade: 222, Trade End: 2025-05-04T09:26
+[2025-05-04 05:51:57] Art post uploaded successfully: Uploads/art_4_1746330717.jpg
+[2025-05-04 05:52:43] Received POST request
+[2025-05-04 05:52:43] Art post deleted successfully: 4
+[2025-05-04 05:52:46] Received POST request
+[2025-05-04 05:52:46] Art post deleted successfully: 3
+[2025-05-04 05:52:51] Received POST request
+[2025-05-04 05:52:51] Art post deleted successfully: 5
+[2025-05-04 05:53:02] Received POST request
+[2025-05-04 05:53:02] Art post updated successfully: 6
+[2025-05-04 05:53:26] Received POST request
+[2025-05-04 05:53:26] Processing art post upload
+[2025-05-04 05:53:26] File: Screenshot 2025-04-28 153626.png, Status: sell, Price: 222, Min Trade: 0, Trade End: 
+[2025-05-04 05:53:26] Art post uploaded successfully: Uploads/art_4_1746330806.png
+[2025-05-04 06:04:53] Received POST request
+[2025-05-04 06:04:53] Art post deleted successfully: 11
+[2025-05-04 06:05:19] Received POST request
+[2025-05-04 06:05:19] Art post updated successfully: 12
+[2025-05-04 06:15:14] Received POST request
+[2025-05-04 06:15:14] Art post updated successfully: 12
+[2025-05-04 06:27:29] Received POST request
+[2025-05-04 06:27:29] Processing art post upload
+[2025-05-04 06:27:29] File: Screenshot 2025-04-28 153022.png, Status: trade, Price: 0, Min Trade: 232, Trade End: 2025-05-04T09:58
+[2025-05-04 06:27:29] Art post uploaded successfully: Uploads/art_4_1746332849.png
+[2025-05-04 04:45:23] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:45:23
+[2025-05-04 04:45:23] Post 13: Bidding is open
+[2025-05-04 04:45:23] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:45:23
+[2025-05-04 04:45:23] Post 12: Bidding is open
+[2025-05-04 04:45:23] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:45:23
+[2025-05-04 04:45:23] Post 13: Bidding is open
+[2025-05-04 04:45:23] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:45:23
+[2025-05-04 04:45:23] Post 12: Bidding is open
+[2025-05-04 04:45:24] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:45:24
+[2025-05-04 04:45:24] Post 13: Bidding is open
+[2025-05-04 04:45:24] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:45:24
+[2025-05-04 04:45:24] Post 12: Bidding is open
+[2025-05-04 04:45:24] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:45:24
+[2025-05-04 04:45:24] Post 13: Bidding is open
+[2025-05-04 04:45:24] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:45:24
+[2025-05-04 04:45:24] Post 12: Bidding is open
+[2025-05-04 04:45:51] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:45:51
+[2025-05-04 04:45:51] Post 13: Bidding is open
+[2025-05-04 04:45:51] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:45:51
+[2025-05-04 04:45:51] Post 12: Bidding is open
+[2025-05-04 04:45:51] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:45:51
+[2025-05-04 04:45:51] Post 13: Bidding is open
+[2025-05-04 04:45:51] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:45:51
+[2025-05-04 04:45:51] Post 12: Bidding is open
+[2025-05-04 04:45:51] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:45:51
+[2025-05-04 04:45:51] Post 13: Bidding is open
+[2025-05-04 04:45:51] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:45:51
+[2025-05-04 04:45:51] Post 12: Bidding is open
+[2025-05-04 04:45:51] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:45:51
+[2025-05-04 04:45:51] Post 13: Bidding is open
+[2025-05-04 04:45:51] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:45:51
+[2025-05-04 04:45:51] Post 12: Bidding is open
+[2025-05-04 04:45:52] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:45:52
+[2025-05-04 04:45:52] Post 13: Bidding is open
+[2025-05-04 04:45:52] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:45:52
+[2025-05-04 04:45:52] Post 12: Bidding is open
+[2025-05-04 04:45:52] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:45:52
+[2025-05-04 04:45:52] Post 13: Bidding is open
+[2025-05-04 04:45:52] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:45:52
+[2025-05-04 04:45:52] Post 12: Bidding is open
+[2025-05-04 04:45:52] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:45:52
+[2025-05-04 04:45:52] Post 13: Bidding is open
+[2025-05-04 04:45:52] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:45:52
+[2025-05-04 04:45:52] Post 12: Bidding is open
+[2025-05-04 04:45:52] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:45:52
+[2025-05-04 04:45:52] Post 13: Bidding is open
+[2025-05-04 04:45:52] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:45:52
+[2025-05-04 04:45:52] Post 12: Bidding is open
+[2025-05-04 04:45:52] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:45:52
+[2025-05-04 04:45:52] Post 13: Bidding is open
+[2025-05-04 04:45:52] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:45:52
+[2025-05-04 04:45:52] Post 12: Bidding is open
+[2025-05-04 04:45:52] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:45:52
+[2025-05-04 04:45:52] Post 13: Bidding is open
+[2025-05-04 04:45:52] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:45:52
+[2025-05-04 04:45:52] Post 12: Bidding is open
+[2025-05-04 04:45:53] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:45:53
+[2025-05-04 04:45:53] Post 13: Bidding is open
+[2025-05-04 04:45:53] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:45:53
+[2025-05-04 04:45:53] Post 12: Bidding is open
+[2025-05-04 04:45:53] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:45:53
+[2025-05-04 04:45:53] Post 13: Bidding is open
+[2025-05-04 04:45:53] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:45:53
+[2025-05-04 04:45:53] Post 12: Bidding is open
+[2025-05-04 04:45:53] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:45:53
+[2025-05-04 04:45:53] Post 13: Bidding is open
+[2025-05-04 04:45:53] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:45:53
+[2025-05-04 04:45:53] Post 12: Bidding is open
+[2025-05-04 04:47:58] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:47:58
+[2025-05-04 04:47:58] Post 13: Bidding is open
+[2025-05-04 04:47:58] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:47:58
+[2025-05-04 04:47:58] Post 12: Bidding is open
+[2025-05-04 04:47:58] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:47:58
+[2025-05-04 04:47:58] Post 13: Bidding is open
+[2025-05-04 04:47:58] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:47:58
+[2025-05-04 04:47:58] Post 12: Bidding is open
+[2025-05-04 04:47:58] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:47:58
+[2025-05-04 04:47:58] Post 13: Bidding is open
+[2025-05-04 04:47:58] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:47:58
+[2025-05-04 04:47:58] Post 12: Bidding is open
+[2025-05-04 04:47:59] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:47:59
+[2025-05-04 04:47:59] Post 13: Bidding is open
+[2025-05-04 04:47:59] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:47:59
+[2025-05-04 04:47:59] Post 12: Bidding is open
+[2025-05-04 04:47:59] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:47:59
+[2025-05-04 04:47:59] Post 13: Bidding is open
+[2025-05-04 04:47:59] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:47:59
+[2025-05-04 04:47:59] Post 12: Bidding is open
+[2025-05-04 04:47:59] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:47:59
+[2025-05-04 04:47:59] Post 13: Bidding is open
+[2025-05-04 04:47:59] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:47:59
+[2025-05-04 04:47:59] Post 12: Bidding is open
+[2025-05-04 04:47:59] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:47:59
+[2025-05-04 04:47:59] Post 13: Bidding is open
+[2025-05-04 04:47:59] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:47:59
+[2025-05-04 04:47:59] Post 12: Bidding is open
+[2025-05-04 04:47:59] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:47:59
+[2025-05-04 04:47:59] Post 13: Bidding is open
+[2025-05-04 04:47:59] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:47:59
+[2025-05-04 04:47:59] Post 12: Bidding is open
+[2025-05-04 04:47:59] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:47:59
+[2025-05-04 04:47:59] Post 13: Bidding is open
+[2025-05-04 04:47:59] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:47:59
+[2025-05-04 04:47:59] Post 12: Bidding is open
+[2025-05-04 04:48:00] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:48:00
+[2025-05-04 04:48:00] Post 13: Bidding is open
+[2025-05-04 04:48:00] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:48:00
+[2025-05-04 04:48:00] Post 12: Bidding is open
+[2025-05-04 04:48:00] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:48:00
+[2025-05-04 04:48:00] Post 13: Bidding is open
+[2025-05-04 04:48:00] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:48:00
+[2025-05-04 04:48:00] Post 12: Bidding is open
+[2025-05-04 04:48:00] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:48:00
+[2025-05-04 04:48:00] Post 13: Bidding is open
+[2025-05-04 04:48:00] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:48:00
+[2025-05-04 04:48:00] Post 12: Bidding is open
+[2025-05-04 04:48:28] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:48:28
+[2025-05-04 04:48:28] Post 13: Bidding is open
+[2025-05-04 04:48:28] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:48:28
+[2025-05-04 04:48:28] Post 12: Bidding is open
+[2025-05-04 04:48:28] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:48:28
+[2025-05-04 04:48:28] Post 13: Bidding is open
+[2025-05-04 04:48:28] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:48:28
+[2025-05-04 04:48:28] Post 12: Bidding is open
+[2025-05-04 04:48:28] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:48:28
+[2025-05-04 04:48:28] Post 13: Bidding is open
+[2025-05-04 04:48:28] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:48:28
+[2025-05-04 04:48:28] Post 12: Bidding is open
+[2025-05-04 04:48:28] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:48:28
+[2025-05-04 04:48:28] Post 13: Bidding is open
+[2025-05-04 04:48:28] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:48:28
+[2025-05-04 04:48:28] Post 12: Bidding is open
+[2025-05-04 04:48:28] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:48:28
+[2025-05-04 04:48:28] Post 13: Bidding is open
+[2025-05-04 04:48:28] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:48:28
+[2025-05-04 04:48:28] Post 12: Bidding is open
+[2025-05-04 04:48:29] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:48:29
+[2025-05-04 04:48:29] Post 13: Bidding is open
+[2025-05-04 04:48:29] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:48:29
+[2025-05-04 04:48:29] Post 12: Bidding is open
+[2025-05-04 04:48:29] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:48:29
+[2025-05-04 04:48:29] Post 13: Bidding is open
+[2025-05-04 04:48:29] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:48:29
+[2025-05-04 04:48:29] Post 12: Bidding is open
+[2025-05-04 04:48:29] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:48:29
+[2025-05-04 04:48:29] Post 13: Bidding is open
+[2025-05-04 04:48:29] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:48:29
+[2025-05-04 04:48:29] Post 12: Bidding is open
+[2025-05-04 04:48:29] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:48:29
+[2025-05-04 04:48:29] Post 13: Bidding is open
+[2025-05-04 04:48:29] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:48:29
+[2025-05-04 04:48:29] Post 12: Bidding is open
+[2025-05-04 04:48:29] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:48:29
+[2025-05-04 04:48:29] Post 13: Bidding is open
+[2025-05-04 04:48:29] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:48:29
+[2025-05-04 04:48:29] Post 12: Bidding is open
+[2025-05-04 04:48:29] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:48:29
+[2025-05-04 04:48:29] Post 13: Bidding is open
+[2025-05-04 04:48:29] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:48:29
+[2025-05-04 04:48:29] Post 12: Bidding is open
+[2025-05-04 04:48:37] Post 13: User is owner, no button shown
+[2025-05-04 04:48:37] Post 12: User is owner, no button shown
+[2025-05-04 06:48:57] Received POST request
+[2025-05-04 06:48:57] Processing art post upload
+[2025-05-04 06:48:57] File: Screenshot 2024-12-19 201750.png, Status: sell, Price: 23, Min Trade: 0, Trade End: 
+[2025-05-04 06:48:57] Art post uploaded successfully: Uploads/art_4_1746334137.png
+[2025-05-04 04:49:04] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:49:04
+[2025-05-04 04:49:04] Post 13: Bidding is open
+[2025-05-04 04:49:04] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:49:04
+[2025-05-04 04:49:04] Post 12: Bidding is open
+[2025-05-04 04:49:17] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:49:17
+[2025-05-04 04:49:17] Post 13: Bidding is open
+[2025-05-04 04:49:17] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:49:17
+[2025-05-04 04:49:17] Post 12: Bidding is open
+[2025-05-04 04:49:42] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:49:42
+[2025-05-04 04:49:42] Post 13: Bidding is open
+[2025-05-04 04:49:42] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:49:42
+[2025-05-04 04:49:42] Post 12: Bidding is open
+[2025-05-04 04:49:48] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:49:48
+[2025-05-04 04:49:48] Post 13: Bidding is open
+[2025-05-04 04:49:48] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:49:48
+[2025-05-04 04:49:48] Post 12: Bidding is open
+[2025-05-04 04:52:56] Post 14: Marked as sold
+[2025-05-04 04:52:56] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 04:52:56] Post 13: Trade open, ends=2025-05-04 09:58:00
+[2025-05-04 04:52:56] Post 13: trade_end=2025-05-04 09:58:00, now=2025-05-04 04:52:56
+[2025-05-04 04:52:56] Post 13: Bidding is open
+[2025-05-04 04:52:56] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 04:52:56] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 04:52:56
+[2025-05-04 04:52:56] Post 12: Bidding is open
+[2025-05-04 04:59:45] Post 14: Marked as sold
+[2025-05-04 04:59:45] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 04:59:45] Post 13: Trade open, ends=2025-05-04 09:58:00
+[2025-05-04 04:59:45] Post 13: No button shown (user is owner or post is sold)
+[2025-05-04 04:59:45] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 04:59:45] Post 12: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:19] Post 14: Marked as sold
+[2025-05-04 05:04:19] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:19] Post 13: Trade open, ends=2025-05-04 09:58:00
+[2025-05-04 05:04:19] Post 13: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:19] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 05:04:19] Post 12: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:22] Post 14: Marked as sold
+[2025-05-04 05:04:22] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:22] Post 13: Trade open, ends=2025-05-04 09:58:00
+[2025-05-04 05:04:22] Post 13: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:22] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 05:04:22] Post 12: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:23] Post 14: Marked as sold
+[2025-05-04 05:04:23] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:23] Post 13: Trade open, ends=2025-05-04 09:58:00
+[2025-05-04 05:04:23] Post 13: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:23] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 05:04:23] Post 12: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:23] Post 14: Marked as sold
+[2025-05-04 05:04:23] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:23] Post 13: Trade open, ends=2025-05-04 09:58:00
+[2025-05-04 05:04:23] Post 13: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:23] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 05:04:23] Post 12: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:23] Post 14: Marked as sold
+[2025-05-04 05:04:23] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:23] Post 13: Trade open, ends=2025-05-04 09:58:00
+[2025-05-04 05:04:23] Post 13: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:23] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 05:04:23] Post 12: No button shown (user is owner or post is sold)
+[2025-05-04 07:04:52] Received POST request
+[2025-05-04 07:04:52] Art post updated successfully: 13
+[2025-05-04 05:04:54] Post 14: Marked as sold
+[2025-05-04 05:04:54] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:54] Post 13: Trade open, ends=2025-05-04 10:35:00
+[2025-05-04 05:04:54] Post 13: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:54] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 05:04:54] Post 12: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:57] Post 14: Marked as sold
+[2025-05-04 05:04:57] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:57] Post 13: Trade open, ends=2025-05-04 10:35:00
+[2025-05-04 05:04:57] Post 13: No button shown (user is owner or post is sold)
+[2025-05-04 05:04:57] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 05:04:57] Post 12: No button shown (user is owner or post is sold)
+[2025-05-04 05:05:07] Post 14: Marked as sold
+[2025-05-04 05:05:07] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:05:07] Post 13: Trade open, ends=2025-05-04 10:35:00
+[2025-05-04 05:05:07] Post 13: trade_end=2025-05-04 10:35:00, now=2025-05-04 05:05:07
+[2025-05-04 05:05:07] Post 13: Bidding is open
+[2025-05-04 05:05:07] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 05:05:07] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 05:05:07
+[2025-05-04 05:05:07] Post 12: Bidding is open
+[2025-05-04 05:05:19] Post 14: Marked as sold
+[2025-05-04 05:05:19] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:05:19] Post 13: Trade open, ends=2025-05-04 10:35:00
+[2025-05-04 05:05:19] Post 13: trade_end=2025-05-04 10:35:00, now=2025-05-04 05:05:19
+[2025-05-04 05:05:19] Post 13: Bidding is open
+[2025-05-04 05:05:19] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 05:05:19] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 05:05:19
+[2025-05-04 05:05:19] Post 12: Bidding is open
+[2025-05-04 05:05:37] Post 14: Marked as sold
+[2025-05-04 05:05:37] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:05:37] Post 13: Trade open, ends=2025-05-04 10:35:00
+[2025-05-04 05:05:37] Post 13: trade_end=2025-05-04 10:35:00, now=2025-05-04 05:05:37
+[2025-05-04 05:05:37] Post 13: Bidding is open
+[2025-05-04 05:05:37] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 05:05:37] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 05:05:37
+[2025-05-04 05:05:37] Post 12: Bidding is open
+[2025-05-04 05:05:37] Post 14: Marked as sold
+[2025-05-04 05:05:37] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:05:37] Post 13: Trade open, ends=2025-05-04 10:35:00
+[2025-05-04 05:05:37] Post 13: trade_end=2025-05-04 10:35:00, now=2025-05-04 05:05:37
+[2025-05-04 05:05:37] Post 13: Bidding is open
+[2025-05-04 05:05:37] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 05:05:37] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 05:05:37
+[2025-05-04 05:05:37] Post 12: Bidding is open
+[2025-05-04 05:05:37] Post 14: Marked as sold
+[2025-05-04 05:05:37] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:05:37] Post 13: Trade open, ends=2025-05-04 10:35:00
+[2025-05-04 05:05:37] Post 13: trade_end=2025-05-04 10:35:00, now=2025-05-04 05:05:37
+[2025-05-04 05:05:37] Post 13: Bidding is open
+[2025-05-04 05:05:37] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 05:05:37] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 05:05:37
+[2025-05-04 05:05:37] Post 12: Bidding is open
+[2025-05-04 05:05:37] Post 14: Marked as sold
+[2025-05-04 05:05:37] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:05:37] Post 13: Trade open, ends=2025-05-04 10:35:00
+[2025-05-04 05:05:37] Post 13: trade_end=2025-05-04 10:35:00, now=2025-05-04 05:05:37
+[2025-05-04 05:05:37] Post 13: Bidding is open
+[2025-05-04 05:05:37] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 05:05:37] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 05:05:37
+[2025-05-04 05:05:37] Post 12: Bidding is open
+[2025-05-04 05:05:37] Post 14: Marked as sold
+[2025-05-04 05:05:37] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:05:37] Post 13: Trade open, ends=2025-05-04 10:35:00
+[2025-05-04 05:05:37] Post 13: trade_end=2025-05-04 10:35:00, now=2025-05-04 05:05:37
+[2025-05-04 05:05:37] Post 13: Bidding is open
+[2025-05-04 05:05:37] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 05:05:37] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 05:05:37
+[2025-05-04 05:05:37] Post 12: Bidding is open
+[2025-05-04 05:05:37] Post 14: Marked as sold
+[2025-05-04 05:05:37] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:05:37] Post 13: Trade open, ends=2025-05-04 10:35:00
+[2025-05-04 05:05:37] Post 13: trade_end=2025-05-04 10:35:00, now=2025-05-04 05:05:37
+[2025-05-04 05:05:37] Post 13: Bidding is open
+[2025-05-04 05:05:37] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 05:05:37] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 05:05:37
+[2025-05-04 05:05:37] Post 12: Bidding is open
+[2025-05-04 05:05:38] Post 14: Marked as sold
+[2025-05-04 05:05:38] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:05:38] Post 13: Trade open, ends=2025-05-04 10:35:00
+[2025-05-04 05:05:38] Post 13: trade_end=2025-05-04 10:35:00, now=2025-05-04 05:05:38
+[2025-05-04 05:05:38] Post 13: Bidding is open
+[2025-05-04 05:05:38] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 05:05:38] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 05:05:38
+[2025-05-04 05:05:38] Post 12: Bidding is open
+[2025-05-04 05:05:38] Post 14: Marked as sold
+[2025-05-04 05:05:38] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:05:38] Post 13: Trade open, ends=2025-05-04 10:35:00
+[2025-05-04 05:05:38] Post 13: trade_end=2025-05-04 10:35:00, now=2025-05-04 05:05:38
+[2025-05-04 05:05:38] Post 13: Bidding is open
+[2025-05-04 05:05:38] Post 12: Trade open, ends=2025-05-04 09:47:00
+[2025-05-04 05:05:38] Post 12: trade_end=2025-05-04 09:47:00, now=2025-05-04 05:05:38
+[2025-05-04 05:05:38] Post 12: Bidding is open
+[2025-05-04 05:41:41] Post 14: Marked as sold
+[2025-05-04 05:41:41] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:41:41] Post 13: For trade, min_trade_value=232.00
+[2025-05-04 05:41:41] Post 13: Bidding is open
+[2025-05-04 05:41:41] Post 12: For trade, min_trade_value=2222.00
+[2025-05-04 05:41:41] Post 12: Bidding is open
+[2025-05-04 07:42:56] Failed to fetch bids: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'b.bid_value' in 'field list'
+[2025-05-04 05:44:34] Post 14: Marked as sold
+[2025-05-04 05:44:34] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:44:34] Post 13: For trade, min_trade_value=232.00
+[2025-05-04 05:44:34] Post 13: Bidding is open
+[2025-05-04 05:44:34] Post 12: For trade, min_trade_value=2222.00
+[2025-05-04 05:44:34] Post 12: Bidding is open
+[2025-05-04 05:45:04] Post 14: Marked as sold
+[2025-05-04 05:45:04] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:45:04] Post 13: For trade, min_trade_value=232.00
+[2025-05-04 05:45:04] Post 13: Bidding is open
+[2025-05-04 05:45:04] Post 12: For trade, min_trade_value=2222.00
+[2025-05-04 05:45:04] Post 12: Bidding is open
+[2025-05-04 07:45:08] Failed to fetch bids: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'b.bid_value' in 'field list'
+[2025-05-04 05:50:09] Post 14: Marked as sold
+[2025-05-04 05:50:09] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:50:09] Post 13: For trade, min_trade_value=232.00
+[2025-05-04 05:50:09] Post 13: Bidding is open
+[2025-05-04 05:50:09] Post 12: For trade, min_trade_value=2222.00
+[2025-05-04 05:50:09] Post 12: Bidding is open
+[2025-05-04 07:50:14] Failed to fetch bids: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'b.bid_value' in 'field list'
+[2025-05-04 05:52:37] Post 14: Marked as sold
+[2025-05-04 05:52:37] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:52:37] Post 13: For trade, min_trade_value=232.00
+[2025-05-04 05:52:37] Post 13: Bidding is open
+[2025-05-04 05:52:37] Post 12: For trade, min_trade_value=2222.00
+[2025-05-04 05:52:37] Post 12: Bidding is open
+[2025-05-04 05:52:39] Post 14: Marked as sold
+[2025-05-04 05:52:39] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:52:39] Post 13: For trade, min_trade_value=232.00
+[2025-05-04 05:52:39] Post 13: Bidding is open
+[2025-05-04 05:52:39] Post 12: For trade, min_trade_value=2222.00
+[2025-05-04 05:52:39] Post 12: Bidding is open
+[2025-05-04 05:52:39] Post 14: Marked as sold
+[2025-05-04 05:52:39] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:52:39] Post 13: For trade, min_trade_value=232.00
+[2025-05-04 05:52:39] Post 13: Bidding is open
+[2025-05-04 05:52:39] Post 12: For trade, min_trade_value=2222.00
+[2025-05-04 05:52:39] Post 12: Bidding is open
+[2025-05-04 05:52:39] Post 14: Marked as sold
+[2025-05-04 05:52:39] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:52:39] Post 13: For trade, min_trade_value=232.00
+[2025-05-04 05:52:39] Post 13: Bidding is open
+[2025-05-04 05:52:39] Post 12: For trade, min_trade_value=2222.00
+[2025-05-04 05:52:39] Post 12: Bidding is open
+[2025-05-04 05:52:46] Post 14: Marked as sold
+[2025-05-04 05:52:46] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:52:46] Post 13: For trade, min_trade_value=232.00
+[2025-05-04 05:52:46] Post 13: Bidding is open
+[2025-05-04 05:52:46] Post 12: For trade, min_trade_value=2222.00
+[2025-05-04 05:52:46] Post 12: Bidding is open
+[2025-05-04 05:52:53] Post 14: Marked as sold
+[2025-05-04 05:52:53] Post 14: No button shown (user is owner or post is sold)
+[2025-05-04 05:52:53] Post 13: For trade, min_trade_value=232.00
+[2025-05-04 05:52:53] Post 13: No button shown (user is owner or post is sold)
+[2025-05-04 05:52:53] Post 12: For trade, min_trade_value=2222.00
+[2025-05-04 05:52:53] Post 12: No button shown (user is owner or post is sold)
+[2025-05-04 07:52:58] Received POST request
+[2025-05-04 07:52:58] Art post deleted successfully: 12
+[2025-05-04 07:53:01] Received POST request
+[2025-05-04 07:53:01] Art post deleted successfully: 14
+[2025-05-04 07:53:05] Received POST request
+[2025-05-04 07:53:05] Art post deleted successfully: 13
+[2025-05-04 07:53:36] Received POST request
+[2025-05-04 07:53:36] Processing art post upload
+[2025-05-04 07:53:36] File: Screenshot 2024-12-19 201750.png, Status: trade, Price: 0, Min Trade: 333
+[2025-05-04 07:53:36] Art post uploaded successfully: Uploads/art_4_1746338016.png
+[2025-05-04 05:53:38] Post 15: For trade, min_trade_value=333.00
+[2025-05-04 05:53:38] Post 15: No button shown (user is owner or post is sold)
+[2025-05-04 05:54:01] Post 15: For trade, min_trade_value=333.00
+[2025-05-04 05:54:01] Post 15: Bidding is open
+[2025-05-04 07:54:11] Bid placed: post_id=15, user_id=5, value=333.08
+[2025-05-04 05:54:49] Post 15: For trade, min_trade_value=333.00
+[2025-05-04 05:54:49] Post 15: Bidding is open
+[2025-05-04 06:01:13] Post 15: For trade, min_trade_value=333.00
+[2025-05-04 06:01:13] Post 15: Bidding is open
+[2025-05-04 06:01:23] Post 15: For trade, min_trade_value=333.00
+[2025-05-04 06:01:23] Post 15: No button shown (user is owner, post is sold, or post is closed)
+[2025-05-04 06:01:33] Post 15: For trade, min_trade_value=333.00
+[2025-05-04 06:01:33] Post 15: No button shown (user is owner, post is sold, or post is closed)
+[2025-05-04 06:04:05] Post 15: For trade, min_trade_value=333.00
+[2025-05-04 06:04:05] Post 15: No button shown (user is owner, post is sold, or post is closed)
+[2025-05-04 06:04:29] Post 15: For trade, min_trade_value=333.00
+[2025-05-04 06:04:29] Post 15: Bidding is open
+[2025-05-04 08:04:48] Bid placed: post_id=15, user_id=5, value=333.06
+[2025-05-04 06:11:11] Post 15: For trade, min_trade_value=333.00
+[2025-05-04 06:11:11] Post 15: Bidding is open
+[2025-05-04 08:18:21] Received POST request
+[2025-05-04 08:18:21] Bidding closed successfully: post_id=15
+[2025-05-04 08:21:56] Received POST request
+[2025-05-04 08:21:56] Processing art post upload
+[2025-05-04 08:21:56] File: Screenshot 2025-04-27 112007.png, Status: trade, Price: 0, Min Trade: 222
+[2025-05-04 08:21:56] Art post uploaded successfully: Uploads/art_4_1746339716.png
+[2025-05-04 06:22:11] Liked post: post_id=16, user_id=5
+[2025-05-04 08:22:20] Failed to fetch highest bid: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'bid_amount' in 'field list'
+[2025-05-04 08:23:13] Highest bid for post ID 16: 0
+[2025-05-04 08:26:04] Highest bid for post ID 16: 0
+[2025-05-04 08:26:23] Highest bid for post ID 16: 0
+[2025-05-04 08:26:23] Bid submitted: post_id=16, user_id=5, amount=0.52
+[2025-05-04 08:26:23] Bid below minimum trade value: 0.52 < 222
+[2025-05-04 08:28:22] Highest bid for post ID 16: 0
+[2025-05-04 08:28:22] Bid submitted: post_id=16, user_id=5, amount=0.52
+[2025-05-04 08:28:22] Bid below minimum trade value: 0.52 < 222
+[2025-05-04 08:28:25] Highest bid for post ID 16: 0
+[2025-05-04 08:28:31] Highest bid for post ID 16: 0
+[2025-05-04 08:28:31] Bid submitted: post_id=16, user_id=5, amount=222.34
+[2025-05-04 08:28:31] Failed to save bid: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+[2025-05-04 08:33:57] Highest bid for post ID 16: 0
+[2025-05-04 08:33:57] Bid submitted: post_id=16, user_id=5, amount=222.34
+[2025-05-04 08:33:57] Bid saved: post_id=16, user_id=5, amount=222.34
+[2025-05-04 08:34:01] Highest bid for post ID 16: 222.34
+[2025-05-04 08:34:07] Highest bid for post ID 16: 222.34
+[2025-05-04 08:34:07] Bid submitted: post_id=16, user_id=5, amount=222.53
+[2025-05-04 08:34:07] Bid saved: post_id=16, user_id=5, amount=222.53
+[2025-05-04 08:34:12] Highest bid for post ID 16: 222.53
+[2025-05-04 08:41:30] Highest bid for post ID 16: 222.53
+[2025-05-04 08:41:37] Highest bid for post ID 16: 222.53
+[2025-05-04 08:41:37] Bid submitted: post_id=16, user_id=5, amount=233
+[2025-05-04 08:41:37] Bid saved: post_id=16, user_id=5, amount=233
+[2025-05-04 08:41:41] Highest bid for post ID 16: 233
+[2025-05-04 08:41:56] Highest bid for post ID 16: 233
+[2025-05-04 08:41:56] Bid submitted: post_id=16, user_id=5, amount=2223
+[2025-05-04 08:41:56] Bid saved: post_id=16, user_id=5, amount=2223
+[2025-05-04 08:42:00] Highest bid for post ID 16: 2223
+[2025-05-04 08:42:12] Highest bid for post ID 16: 2223
+[2025-05-04 08:42:12] Bid submitted: post_id=16, user_id=5, amount=0.35
+[2025-05-04 08:42:12] Bid too low: 0.35 <= 2223
+[2025-05-04 08:42:42] Highest bid for post ID 16: 2223
+[2025-05-04 08:44:27] Highest bid for post ID 16: 2223
+[2025-05-04 08:44:39] Highest bid for post ID 16: 2223
+[2025-05-04 08:44:39] Bid submitted: post_id=16, user_id=5, amount=22223
+[2025-05-04 08:44:39] Bid saved: post_id=16, user_id=5, amount=22223
+[2025-05-04 08:44:42] Highest bid for post ID 16: 22223
+[2025-05-04 08:45:24] Highest bid for post ID 16: 22223
+[2025-05-04 08:45:24] Bid submitted: post_id=16, user_id=5, amount=22.75
+[2025-05-04 08:45:24] Bid too low: 22.75 <= 22223
+[2025-05-04 08:45:29] Highest bid for post ID 16: 22223
+[2025-05-04 08:45:29] Bid submitted: post_id=16, user_id=5, amount=22.75
+[2025-05-04 08:45:29] Bid too low: 22.75 <= 22223
+[2025-05-04 08:45:32] Highest bid for post ID 16: 22223
+[2025-05-04 08:45:45] Highest bid for post ID 16: 22223
+[2025-05-04 08:45:45] Bid submitted: post_id=16, user_id=5, amount=22222
+[2025-05-04 08:45:45] Bid too low: 22222 <= 22223
+[2025-05-04 08:45:48] Highest bid for post ID 16: 22223
+[2025-05-04 08:45:59] Highest bid for post ID 16: 22223
+[2025-05-04 08:45:59] Bid submitted: post_id=16, user_id=5, amount=2222222
+[2025-05-04 08:45:59] Bid saved: post_id=16, user_id=5, amount=2222222
+[2025-05-04 08:46:01] Highest bid for post ID 16: 2222222
+[2025-05-04 08:47:30] Received POST request
+[2025-05-04 08:47:30] Bidding closed successfully: post_id=16
+[2025-05-04 06:47:42] Fetched likers for post_id=16: 1 likers
+[2025-05-04 06:48:04] Fetched likers for post_id=16: 1 likers
+[2025-05-04 06:48:53] Liked post: post_id=16, user_id=4
+[2025-05-04 06:49:16] Fetched likers for post_id=16: 2 likers
+[2025-05-04 06:49:30] Fetched likers for post_id=16: 2 likers
